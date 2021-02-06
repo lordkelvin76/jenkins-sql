@@ -1,2 +1,2 @@
-insert into  hr.regions values (5,'The far east');
+insert into  hr.regions values (6,'The falcon');
 commit;
